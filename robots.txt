@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ivanmartinezsanchez2006.github.io/Mi-web-personal/sitemap.xml
